@@ -2,6 +2,6 @@ name: ${project.name}
 version: ${project.version}
 main: ${project.groupId}.${project.artifactId}
 commands:
-  testcmd:
+  blockgenerator:
     description: Test cmd
     usage: /testcmd

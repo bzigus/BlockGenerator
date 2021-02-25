@@ -39,7 +39,6 @@ public class Language {
 
         lang = ChatColor.translateAlternateColorCodes('&', lang);
 
-
         return lang;
     }
 
