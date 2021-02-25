@@ -1,5 +1,4 @@
 prefix: "&8[&5Block&6Generator&8]"
 Commands:
-  also: "&4before"
-  ohlook: "&4I update too!"
-  #Yo, tes test
+  invalidArgs: "<prefix> &c&l Invalid Arguments!"
+  notEnoughArgs: "<prefix> &c&lYou did not provide enough arguments!"
