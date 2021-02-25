@@ -6,7 +6,7 @@
 
     <groupId>us.bugzig.blockgenerator</groupId>
     <artifactId>BlockGenerator</artifactId>
-    <version>0.0.1-DEV</version>
+    <version>0.0.2-DEV</version>
     <build>
         <resources>
             <resource>
